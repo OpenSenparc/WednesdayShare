@@ -9,8 +9,6 @@
 https://v.qq.com/x/page/a08649t3aqa.html
 
 
-# 其他资源
-
 ## 基于 .NET Core 的开发框架：SenparcCoreFramework（SCF）
 
 https://github.com/SenparcCoreFramework/SCF
