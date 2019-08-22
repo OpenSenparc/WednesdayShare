@@ -12,7 +12,7 @@
 
 ## 链接
 
-CO2NET 开源项目：https://github.com/Senparc/Senparc.CO2NET
+CO2NET 开源项目（包含所有 CO2NET 基础模块及官方已提供的缓存模块实现）：https://github.com/Senparc/Senparc.CO2NET
 
 NuGet（内嵌本地缓存，支持 .NET Framework + .NET Core）：
 https://www.nuget.org/packages/Senparc.CO2NET
